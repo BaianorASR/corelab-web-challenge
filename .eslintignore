@@ -1,0 +1,5 @@
+/node_modules
+next.config.js
+.next
+commitlint.config.js
+*.d.ts
